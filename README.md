@@ -43,7 +43,7 @@ O [Beecrowd](https://www.beecrowd.com.br) (antigo URI Online Judge) é uma plata
 
 Caso queira trocar uma ideia:
 
-- 💼 [https://www.linkedin.com/in/ycklertomicki/]
+- 💼 https://www.linkedin.com/in/ycklertomicki/
 
 ---
 
